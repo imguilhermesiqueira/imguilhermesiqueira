@@ -3,6 +3,10 @@
 
 <h3> About Me </h3>
 
+- 🧑‍💻 I currently study at [Cubos Academy](https://cubos.academy/)
+- 🏠 I'm from Manaus, AM - Brasil
+- 📫 How to reach me: siqueiraguilherme516@gmail.com
+
 <div align="center">
   <a href="https://github.com/imguilhermesiqueira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imguilhermesiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
