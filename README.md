@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Hi everyone 👋, I'm Guilherme </h1>
+<h2 align = "center"> Hi everyone 👋, I'm Guilherme </h2>
  ##
 <div align="center">
   <a href="https://github.com/imguilhermesiqueira">
