@@ -1,6 +1,6 @@
 
 <h2 align = "center"> Hi everyone 👋, I'm Guilherme </h2>
- ##
+
 <div align="center">
   <a href="https://github.com/imguilhermesiqueira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imguilhermesiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
