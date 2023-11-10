@@ -3,7 +3,6 @@
 
 <h3> About Me </h3>
 
-- 🧑‍ I currently study at [Cubos Academy](https://cubos.academy/)
 - 💻 software development
 - 🏠 I'm from Manaus, AM - Brasil
 - 📫 How to reach me: siqueiraguilherme516@gmail.com
